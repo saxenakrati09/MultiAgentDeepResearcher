@@ -1,0 +1,4 @@
+dotenv
+pydantic
+linkup-sdk
+crewai[tools]
